@@ -59,8 +59,7 @@
 ### Stats:
 <p align="center">
   <a href="https://github.com/raytho"><img src="https://github-readme-stats.vercel.app/api?username=raytho&hide_border=true&show_icons=true" alt="raytho's github stats"></a>
-&nbsp;
-  <a>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raytho&layout=compact&text_color=daf7dc&bg_color=151515)
-   </a>
+</p>
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raytho&layout=compact&text_color=daf7dc&bg_color=151515)
 </p>
