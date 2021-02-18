@@ -11,15 +11,15 @@
 
 <img hight="400" width="500" alt="GIF" align="left" src="https://media.giphy.com/media/BQVIkoKR5f8FW/giphy.gif">
 
-- I'm backend developer in .NET Tech. 
-- If you're interested in all things .NET contact me :grinning:
-- Platzi Master member :green_heart:
+- &nbsp; I'm backend developer in .NET Tech. 
+- &nbsp; If you're interested in all things .NET contact me :grinning:
+- &nbsp; Platzi Master member :green_heart:
 
 ### Bio: 
-- 🔭 I’m currently working on @Softtek
-- 🌱 I’m currently learning nodejs.
-- 🤔 I’m looking for help with frontend techs
-- 💬 Ask me about .NET 
+- &nbsp; 🔭 I’m currently working on @Softtek
+- &nbsp; 🌱 I’m currently learning nodejs.
+- &nbsp; 🤔 I’m looking for help with frontend tech
+- &nbsp; 💬 Ask me about .NET 
 
 <br/>
 
@@ -59,4 +59,7 @@
 ### Stats:
 <p align="center">
   <a href="https://github.com/raytho"><img src="https://github-readme-stats.vercel.app/api?username=raytho&hide_border=true&show_icons=true" alt="raytho's github stats"></a>
+&nbsp;
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raytho&layout=compact&text_color=daf7dc&bg_color=151515)
 </p>
