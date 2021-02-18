@@ -15,7 +15,7 @@
 - &nbsp; Platzi Master member :green_heart:
 
 ### Bio: 
-- &nbsp; 🔭 I’m currently working on @Softtek
+- &nbsp; 🔭 I’m currently working as .NET Developer on [Softtek](https://www.softtek.com/).
 - &nbsp; 🌱 I’m currently learning nodejs.
 - &nbsp; 🤔 I’m looking for help with frontend tech
 - &nbsp; 💬 Ask me about .NET 
