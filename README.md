@@ -19,3 +19,7 @@
 - .NET Core
 - MVC| Razor
 - HTML|CSS|Nodejs
+
+<p align="center">
+  <a href="https://github.com/raytho"><img src="https://github-readme-stats.vercel.app/api?username=raytho&hide_border=true&show_icons=true" alt="raytho's github stats"></a>
+</p>
