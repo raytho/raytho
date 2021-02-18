@@ -19,6 +19,8 @@
 - 🤔 I’m looking for help with frontend techs
 - 💬 Ask me about .NET 
 
+<br/>
+
 ### Languages :computer: :
 <p align="left">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="csharp" width="90" hight="50">
