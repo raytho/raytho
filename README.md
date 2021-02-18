@@ -2,6 +2,7 @@
 
 <!--
 **raytho/raytho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 - I'm backend developer in .NET Tech. 
 - If you're interested in all things .NET contact me :grinning:
@@ -18,4 +19,3 @@
 - .NET Core
 - MVC| Razor
 - HTML|CSS|Nodejs
--->
