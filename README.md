@@ -7,8 +7,9 @@
 [![](https://img.shields.io/badge/-@raystarkey-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/raystarkey)
 [![](https://img.shields.io/badge/-Raymundo%20Solis-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:luissol@hotmail.com)]( mailto:luissol@hotmail.com)
 
-
+<p align="left">
 <img hight="400" width="500" alt="GIF" align="left" src="https://media.giphy.com/media/BQVIkoKR5f8FW/giphy.gif">
+</p>
 
 <br/>
 
