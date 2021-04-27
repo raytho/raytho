@@ -9,7 +9,9 @@
 
 
 <img hight="400" width="500" alt="GIF" align="left" src="https://media.giphy.com/media/BQVIkoKR5f8FW/giphy.gif">
-<br>
+
+<br/>
+
 - &nbsp; I'm backend developer in .NET Tech. 
 - &nbsp; If you're interested in all things .NET contact me :grinning:
 - &nbsp; Platzi Master member :green_heart:
