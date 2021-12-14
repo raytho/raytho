@@ -25,6 +25,14 @@
 
 <br/>
 
+### Personal Projects
+* [Sifap](https://sifap.netlify.app/) Billing generator to LATAM.
+* [Salchigram](https://kind-pasteur-c52650.netlify.app/) Page to share your pets pics.
+* [Platzi Store](https://raytho.github.io/) Store Simulator.
+* [Decision Legal](https://decisionlegal.com.mx/) Landing Page to Lawers.
+* [SmartEyes](https://smart-eyes.com/#/) Landing Page to retail company.
+<br/>
+
 ### Languages :computer: :
 <p align="left">
   <a href="#">
