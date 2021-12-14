@@ -25,7 +25,7 @@
 
 <br/>
 
-### Personal Projects
+### Personal Projects 📦 :
 * [Sifap](https://sifap.netlify.app/) Billing generator to LATAM.
 * [Salchigram](https://kind-pasteur-c52650.netlify.app/) Page to share your pets pics.
 * [Platzi Store](https://raytho.github.io/) Store Simulator.
@@ -33,7 +33,7 @@
 * [SmartEyes](https://smart-eyes.com/#/) Landing Page to retail company.
 <br/>
 
-### Languages :computer: :
+### Languages 💻 :
 <p align="left">
   <a href="#">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
@@ -52,7 +52,7 @@
   </a> 
 </p>
 
-### Frameworks :briefcase: :
+### Frameworks 🧰 :
 
 <p align="left">
   <a href="#">
