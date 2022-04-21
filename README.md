@@ -18,6 +18,7 @@
 - &nbsp; Platzi Master member :green_heart:
 
 <br/>
+<br/>
 
 ### Bio: 
 - &nbsp; 🔭 I’m currently working as .NET Developer on [Softtek](https://www.softtek.com/).
