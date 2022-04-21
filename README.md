@@ -17,6 +17,8 @@
 - &nbsp; If you're interested in all things .NET contact me :grinning:
 - &nbsp; Platzi Master member :green_heart:
 
+<br/>
+
 ### Bio: 
 - &nbsp; 🔭 I’m currently working as .NET Developer on [Softtek](https://www.softtek.com/).
 - &nbsp; 🌱 I’m currently learning nodejs.
